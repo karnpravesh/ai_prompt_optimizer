@@ -1,0 +1,6 @@
+OPENAI_API_KEY = "your-api-key"
+MODEL_NAME = "gpt-4"
+MAX_TOKENS = 512
+N_VARIANTS = 5
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
